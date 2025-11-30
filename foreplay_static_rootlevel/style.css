@@ -1,0 +1,11 @@
+
+body { margin:0; font-family:sans-serif; background:linear-gradient(180deg,#ffb7d5,#ff8ac0); color:#9d0b4c; padding-bottom:40px;}
+.container{max-width:420px;margin:auto;padding:16px;text-align:center;}
+h1{color:#d4066f;font-size:32px;margin-bottom:16px;}
+.rules{background:rgba(255,255,255,0.7);padding:12px;border-radius:12px;margin-bottom:20px;text-align:left;}
+.categories{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-bottom:20px;}
+.categories button{padding:6px 12px;background:white;border:1px solid #ff5ba8;color:#d4066f;border-radius:10px;font-weight:bold;}
+.categories button.active{background:#ff5ba8;color:white;}
+.card{background:rgba(255,255,255,0.8);padding:20px;border-radius:16px;font-size:18px;min-height:140px;display:flex;align-items:center;justify-content:center;}
+.controls{display:flex;gap:12px;justify-content:center;margin-top:20px;}
+button{padding:10px 18px;background:white;border:1px solid #ff5ba8;color:#d4066f;border-radius:10px;font-size:16px;font-weight:bold;}
